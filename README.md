@@ -3,11 +3,11 @@ Welcome to the F1 Power BI Analysis repository! This project aims to provide a c
 
 The analysis is based on a combination of publicly available Formula 1 data sources, including:
 
-->F1 race results and statistics datasets.
+-  F1 race results and statistics datasets.
 
-->Driver and team information datasets.
+-  Driver and team information datasets.
 
-->Circuit details and race calendar information.
+-  Circuit details and race calendar information.
 
 ## CIRCUIT AND LOCATION STATS:
 
